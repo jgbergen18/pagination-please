@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 15px;
+    width: 160px;
+    text-align: center;
+    margin: 0;
+  }
+  
+  #extendBtn {
+    background-color: #1A73E8;
+    color: #ffffff;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+  }
+  
+  #extendBtn:hover {
+    background-color: #1669c1;
+  }
+  
